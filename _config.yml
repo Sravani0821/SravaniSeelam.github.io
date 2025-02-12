@@ -1,1 +1,5 @@
-
+title:shaw Talebi
+#logo: /assets/img/headshot_circle.png
+#Description: Text below image
+show_downloads: TRUE
+theme:jekyll-theme-minimal
