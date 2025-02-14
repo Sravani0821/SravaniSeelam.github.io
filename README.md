@@ -1,6 +1,5 @@
 **Full Stack Java Developer**  
-![Sravani Seelam]() 
-
+![Sravani Seelam](https://github.com/Sravani0821/SravaniSeelam.github.io/blob/main/sravani%20S.jpg) 
 📧 sravaniseelam0821@gmail.com  
 📞 +1 940 882-8726  
 🔗 [LinkedIn](https://www.linkedin.com/in/sravani-seelam-90b010213)  
