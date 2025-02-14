@@ -1,6 +1,6 @@
 **Full Stack Java Developer**  
 ![Sravani Seelam]("C:\Users\srava\OneDrive\Desktop\sravani S.jpg") 
-📧 sravaniseelam0821@gmail.com  
+-📧 sravaniseelam0821@gmail.com  
 📞 +1 940 882-8726  
 🔗 [LinkedIn](https://www.linkedin.com/in/sravani-seelam-90b010213)  
 
