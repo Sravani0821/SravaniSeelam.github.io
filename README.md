@@ -8,9 +8,11 @@
 
 ## About Me  
 
-I am a **Full Stack Java Developer** with **5 years of experience** in designing, developing, and deploying web applications. My expertise spans backend and frontend development, cloud technologies, DevOps, and system architecture. I have worked on multiple large-scale projects across various industries, ensuring efficient, secure, and scalable solutions.  
-
-I enjoy working in **agile environments**, collaborating with teams, and continuously learning new technologies to enhance my development skills.  
+i am a Java Full Stack Developer with 5 years of experience in designing, developing, and deploying scalable web applications. I specialize in Java, Spring Boot, Microservices, React.js, Angular, Node.js, and cloud platforms like AWS, Azure, and GCP.
+Throughout my career, I've worked with esteemed organizations such as Freddie Mac, Department of Health Louisiana, Genpact, Accenture, and Adobe Creative Academy. My expertise spans across backend development with Spring Boot, Hibernate, JPA, and frontend development with React.js, Angular, HTML5, CSS3, ensuring responsive and user-friendly interfaces.
+I'm proficient in building RESTful APIs, GraphQL, Docker, Kubernetes, CI/CD pipelines, and managing databases like PostgreSQL, MySQL, MongoDB, and Redis. With a strong focus on security, scalability, and performance optimization, I strive to deliver high-quality solutions that meet business needs.
+I am a firm believer in Agile methodologies, continuous learning, and collaborative teamwork. I also have experience in implementing Spring Security, OAuth2, JWT, and ensuring HIPAA-compliant applications.  
+ 
 
 ---
 
