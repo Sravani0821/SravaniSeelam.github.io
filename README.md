@@ -35,7 +35,7 @@ I am a firm believer in Agile methodologies, continuous learning, and collaborat
 - Deployed applications to AWS and Azure environments.  
 - Led integration efforts for external systems.  
 
-### **Genpact** _(Feb 2022 - Dec 2022)_  
+### **Code 3** _(Feb 2022 - Dec 2022)_  
 **Java Full Stack Developer**  
 - Built inventory management applications using Java and Angular.  
 - Ensured security compliance with role-based authentication.  
