@@ -1,5 +1,5 @@
 title:Sravani Seelam
-#logo: https://github.com/Sravani0821/SravaniSeelam.github.io/blob/main/sravani%20S.jpg
-#Description: Text below image
+#logo: sravani S.jpg
+#Description: 
 #show_downloads: FALSE
-remote_theme: minima
+remote_theme: jekyll-theme-minima
