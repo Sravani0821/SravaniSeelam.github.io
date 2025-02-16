@@ -57,6 +57,7 @@ I am a firm believer in Agile methodologies, continuous learning, and collaborat
 
 ---
 
+
 ## Certifications  
 
 - **HackerRank** - SQL  
