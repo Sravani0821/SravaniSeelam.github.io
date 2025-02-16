@@ -19,7 +19,7 @@ I am a firm believer in Agile methodologies, continuous learning, and collaborat
 
 ## Experience  
 
-### **Freddie Mac** _(May 2024 - Dec 2024)_  
+### **Freddie Mac** _(May 2024 - present)_  
 **Java Full Stack Developer**  
 - Developed microservices-based architecture to enhance scalability.  
 - Built RESTful APIs for seamless data integration.  
